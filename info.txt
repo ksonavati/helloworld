@@ -5,3 +5,7 @@ sfcc commerce cloud, demandware
 front end
 
 back end (php, mysql)
+
+persistent
+logiquad
+transperfect
