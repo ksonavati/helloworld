@@ -1,2 +1,7 @@
 university
 fergusson
+
+
+maths
+pcm
+computer
